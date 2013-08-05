@@ -6,8 +6,8 @@ http://emberjs.com/guides/components/defining-a-component/
 
 This app does nothing in particular but attempt to define a handlebars component at
 
-app/assets/javscripts/components/foo.hbs
+app/assets/javascripts/components/foo.hbs
 
 and display the component in the application handlebars template at
 
-app/assets/javscripts/templates/application.hbs
+app/assets/javascripts/templates/application.hbs
